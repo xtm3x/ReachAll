@@ -1,0 +1,10 @@
+Package: com.xtm3x.reachall
+Name: ReachAll
+Depends: mobilesubstrate, libactivator (>= 1.9.1~beta1)
+Version: 0.0.3
+Depiction: http://repo.tm3dev.com/depics/reach.html
+Architecture: iphoneos-arm
+Description: Reachability on all iOS 8 devices.
+Maintainer: xTheMaster3x
+Author: xTheMaster3x
+Section: Tweaks
